@@ -1,0 +1,12 @@
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Core/Ecommerce.Domain/bin/Debug/net7.0/Ecommerce.Domain.deps.json
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Core/Ecommerce.Domain/bin/Debug/net7.0/Ecommerce.Domain.dll
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Core/Ecommerce.Domain/bin/Debug/net7.0/Ecommerce.Domain.pdb
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Core/Ecommerce.Domain/obj/Debug/net7.0/Ecommerce.Domain.csproj.AssemblyReference.cache
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Core/Ecommerce.Domain/obj/Debug/net7.0/Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Core/Ecommerce.Domain/obj/Debug/net7.0/Ecommerce.Domain.AssemblyInfoInputs.cache
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Core/Ecommerce.Domain/obj/Debug/net7.0/Ecommerce.Domain.AssemblyInfo.cs
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Core/Ecommerce.Domain/obj/Debug/net7.0/Ecommerce.Domain.csproj.CoreCompileInputs.cache
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Core/Ecommerce.Domain/obj/Debug/net7.0/Ecommerce.Domain.dll
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Core/Ecommerce.Domain/obj/Debug/net7.0/refint/Ecommerce.Domain.dll
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Core/Ecommerce.Domain/obj/Debug/net7.0/Ecommerce.Domain.pdb
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Core/Ecommerce.Domain/obj/Debug/net7.0/ref/Ecommerce.Domain.dll

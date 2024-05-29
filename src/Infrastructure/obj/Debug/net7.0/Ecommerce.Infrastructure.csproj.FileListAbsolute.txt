@@ -1,0 +1,17 @@
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Infrastructure/bin/Debug/net7.0/Ecommerce.Infrastructure.deps.json
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Infrastructure/bin/Debug/net7.0/Ecommerce.Infrastructure.dll
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Infrastructure/bin/Debug/net7.0/Ecommerce.Infrastructure.pdb
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Infrastructure/bin/Debug/net7.0/Ecommerce.Application.dll
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Infrastructure/bin/Debug/net7.0/Ecommerce.Domain.dll
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Infrastructure/bin/Debug/net7.0/Ecommerce.Application.pdb
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Infrastructure/bin/Debug/net7.0/Ecommerce.Domain.pdb
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Infrastructure/obj/Debug/net7.0/Ecommerce.Infrastructure.csproj.AssemblyReference.cache
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Infrastructure/obj/Debug/net7.0/Ecommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Infrastructure/obj/Debug/net7.0/Ecommerce.Infrastructure.AssemblyInfoInputs.cache
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Infrastructure/obj/Debug/net7.0/Ecommerce.Infrastructure.AssemblyInfo.cs
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Infrastructure/obj/Debug/net7.0/Ecommerce.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Infrastructure/obj/Debug/net7.0/Ecommerce.Infrastructure.csproj.CopyComplete
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Infrastructure/obj/Debug/net7.0/Ecommerce.Infrastructure.dll
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Infrastructure/obj/Debug/net7.0/refint/Ecommerce.Infrastructure.dll
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Infrastructure/obj/Debug/net7.0/Ecommerce.Infrastructure.pdb
+/Users/javierleonardoxoolpech/Desktop/ProyectosPersonales/net/amazonshop/backend/src/Infrastructure/obj/Debug/net7.0/ref/Ecommerce.Infrastructure.dll
